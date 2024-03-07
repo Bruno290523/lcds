@@ -33,3 +33,5 @@ Alex de México
 
 Juan Delgado de Colombia
 
+Bruno de Perú
+
